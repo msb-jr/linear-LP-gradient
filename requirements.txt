@@ -1,0 +1,20 @@
+# Linear LP Gradient Analysis - Python Dependencies
+# Install: pip install -r requirements.txt
+# Requires: Python 3.9+
+
+# Core data manipulation
+pandas==2.2.3
+numpy==1.26.4
+
+# Statistical analysis
+scipy==1.13.1
+scikit-learn==1.5.2
+
+# Changepoint detection (PELT algorithm)
+ruptures==1.1.9
+
+# Elbow/knee detection for optimal segmentation
+kneed==0.8.5
+
+# Visualization
+matplotlib==3.9.2
