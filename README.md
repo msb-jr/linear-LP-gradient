@@ -83,7 +83,7 @@ Additionally, Script 10 requires a separate in vitro dataset at `0_input/in_vitr
 
 Run scripts 1 → 2 in order, then can run 3+. See each script header for full details.
 
-| Script | Description | Manuscript relevance |
+| Script | Description | Manuscript relevance<sup>**a**</sup> |
 |--------|-------------|----------------------|
 | `1_pre-processing.py` | Data pre-processing | 2.2, SM2.ii |
 | `2_linear_segmentation.py` | PELT linear segmentation + annotation | 2.3.ii |
@@ -97,6 +97,27 @@ Run scripts 1 → 2 in order, then can run 3+. See each script header for full d
 | `10_in_vitro.R` | In vitro ETC inhibition validation | 3.8, Fig. 7 |
 | `extra_linear_to_hyperbolic.py` | Conceptual linear→hyperbolic relationship | 2.3.i, Fig. S1 |
 | `extra_lpr_m_schematic.py` | CMD Schematic with LPR timecourse & linear regressions | Fig. 1 |
+
+<sup>**a**</sup> Codes prefixed *SM* and *Fig./Table* refer to the numbered sections, figures, and tables in the Supplementary Materials and Manuscript as published. As the Manuscript itself does not use numbered section headings, the **Manuscript relevance** column above uses the following numbering scheme, assigned here for reference only:
+
+**2. Materials and methods**
+
+- **2.2** Data integration and pre-processing
+- **2.3** Linear characterisation of lactate–pyruvate data
+  - **2.3.i** Theoretical basis
+  - **2.3.ii** Segmentation pipeline
+
+**3. Results**
+
+- **3.1** Segmentation pipeline output
+- **3.2** Validation of the linear framework
+- **3.3** Linear parameters and the hyperbolic consequence
+  - **3.3.i** Characterisation
+  - **3.3.ii** Within-segment LPR error
+- **3.4** Explaining metabolic polarisation
+- **3.5** Substrate delivery and LPR fidelity
+- **3.6** Outcome association
+- **3.8** In vitro validation
 
 ### Run
 
