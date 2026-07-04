@@ -22,8 +22,8 @@ Verify installation: `python3 --version` and `R --version`
 Navigate to where you want the project, then:
 
 ```bash
-git clone https://github.com/msb-jr/linear-LP-gradient.git
-cd linear-LP-gradient
+git clone https://github.com/msb-jr/LPG.git
+cd LPG
 ```
 
 Or click **Code → Download ZIP** on GitHub and extract.
