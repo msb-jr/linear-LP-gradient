@@ -4,7 +4,7 @@
 
 If you use this code, please cite:
 
-> Baker MS, Heihre JM, Kulinski T, et al. The microdialysis-derived lactate–pyruvate gradient indicates anaerobic activity after brain injury. *Manuscript under review*.
+> Baker MS, Heihre JM, Kuliński T, et al. The microdialysis-derived lactate–pyruvate gradient indicates anaerobic activity after brain injury. *Manuscript under review*.
 
 ---
 
