@@ -1,4 +1,4 @@
-# Linear LP Gradient Analysis - Python Dependencies
+# Linear Lactate-Pyruvate Gradient (LPG) Analysis - Python Dependencies
 # Install: pip install -r requirements.txt
 # Requires: Python 3.9+
 

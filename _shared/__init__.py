@@ -1,4 +1,4 @@
-"""Shared utilities for linear LP gradient analyses."""
+"""Shared utilities for linear Lactate-Pyruvate Gradient (LPG) analyses."""
 
 __all__ = [
     "notes",
